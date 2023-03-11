@@ -1,0 +1,24 @@
+h2 {
+    font-size: 12px;
+}
+h3 {
+    font-size: 24px;
+}
+h4{
+    font-size: 18px;
+}
+.link:hover { color: #FFC0CB; }
+
+.wrapper {
+    background: #FFDBE9;
+    margin-top: 48px;
+    margin-right: 448px;
+    margin-left: 448px;
+    padding: 24px;
+}
+
+#important {
+    font-weight: 900;
+    color: red;
+}
+
